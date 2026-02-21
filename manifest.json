@@ -2,7 +2,7 @@
   "name": "FAMILY SHOP",
   "short_name": "FAMILY SHOP",
   "description": "Gestion de boutique de vêtements professionnelle",
-  "start_url": "/familyshop/index.php",
+  "start_url": "/index.php",
   "scope": "/familyshop/",
   "display": "standalone",
   "background_color": "#4F46E5",
@@ -23,3 +23,4 @@
   "lang": "fr"
 
 }
+

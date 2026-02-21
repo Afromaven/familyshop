@@ -2,20 +2,20 @@
   "name": "FAMILY SHOP",
   "short_name": "FAMILY SHOP",
   "description": "Gestion de boutique de vêtements professionnelle",
-  "start_url": "/index.php",
-  "scope": "/familyshop/",
+  "start_url": "index.php",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#4F46E5",
   "theme_color": "#4F46E5",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://github.com/Afromaven/familyshop/blob/main/logo/android-chrome-192x192.png",
+      "src": "logo/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://github.com/Afromaven/familyshop/blob/main/logo/android-chrome-512x512.png",
+      "src": "logo/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -23,4 +23,5 @@
   "lang": "fr"
 
 }
+
 
